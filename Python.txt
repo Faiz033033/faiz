@@ -7,4 +7,6 @@ This is new update
 I am from Jhunjhunu
 Jhunjhunu is in Rajasthan
 
+merge test 1
+
 Thanks 
